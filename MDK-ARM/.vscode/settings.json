@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "common.h": "c",
+        "user_flash.h": "c",
+        "usb_uart.h": "c",
+        "oled_i2c.h": "c",
+        "ir_track.h": "c",
+        "car_drive.h": "c"
+    }
+}
